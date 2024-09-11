@@ -21,7 +21,7 @@ D) dart --version
 Answer:
 B) Update your PATH
 
-6. What command is used to run a newly created Flutter app?
+5. What command is used to run a newly created Flutter app?
    
 Answer:
 C) flutter run
