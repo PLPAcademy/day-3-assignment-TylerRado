@@ -15,35 +15,37 @@
 5. What command is used to run a newly created Flutter app? 
  Answer:
  C) flutter run
+
 #Python Installation
- 6. What is the first step to install Python on a Windows system?
+
+ 7. What is the first step to install Python on a Windows system?
  Answer:
  B) Download Python from the official website
-7. Which option should you ensure is checked during Python installation on Windows?
+8. Which option should you ensure is checked during Python installation on Windows?
  Answer:
  C) Add Python to PATH
-8. How do you verify Python installation on any system?
+9. How do you verify Python installation on any system?
  Answer:
  A) By running python --version
-9. What command is used to install pip on macOS and Linux?
+10. What command is used to install pip on macOS and Linux?
  Answer:
 A) sudo install pip
-10. What is the purpose of a virtual environment in Python?
+11. What is the purpose of a virtual environment in Python?
  Answer:
 D) To enhance Python performance on your system
 #MySQL Installation
-11. What is the first step to install MySQL on Windows?
+12. What is the first step to install MySQL on Windows?
  Answer:
 B) Download MySQL Installer from the official website
-12. What setup type should you choose for a custom MySQL installation?
+13. What setup type should you choose for a custom MySQL installation?
  Answer:
 D) Custom
-13. Which products should you select during the MySQL installation?
+14. Which products should you select during the MySQL installation?
  Answer:
 A) MySQL Server, MySQL Workbench, and MySQL Shell
-14. What is the purpose of setting a root password during MySQL installation?
+15. What is the purpose of setting a root password during MySQL installation?
  Answer:
 C) To activate MySQL Workbench
-15. How do you begin managing your database after installing MySQL?
+16. How do you begin managing your database after installing MySQL?
 Answer:
 B) Launch MySQL Workbench and connect to your MySQL Server
