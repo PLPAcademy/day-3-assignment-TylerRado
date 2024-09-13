@@ -1,7 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/vnsr1XuU)
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15631636&assignment_repo_type=AssignmentRepo)
 # Env_Set
-
 # Environment Setup Assignment
 #Dart & Flutter
 1. What is the first step for installing Dart on a Windows machine?
@@ -18,7 +17,7 @@
  C) flutter run
 #Python Installation
  6. What is the first step to install Python on a Windows system?
-Answer:
+ Answer:
  B) Download Python from the official website
 7. Which option should you ensure is checked during Python installation on Windows?
  Answer:
@@ -27,23 +26,23 @@ Answer:
  Answer:
  A) By running python --version
 9. What command is used to install pip on macOS and Linux?
-Answer:
+ Answer:
 A) sudo install pip
 10. What is the purpose of a virtual environment in Python?
-Answer:
+ Answer:
 D) To enhance Python performance on your system
 #MySQL Installation
 11. What is the first step to install MySQL on Windows?
-Answer:
+ Answer:
 B) Download MySQL Installer from the official website
 12. What setup type should you choose for a custom MySQL installation?
-Answer:
+ Answer:
 D) Custom
 13. Which products should you select during the MySQL installation?
-Answer:
+ Answer:
 A) MySQL Server, MySQL Workbench, and MySQL Shell
 14. What is the purpose of setting a root password during MySQL installation?
-Answer:
+ Answer:
 C) To activate MySQL Workbench
 15. How do you begin managing your database after installing MySQL?
 Answer:
